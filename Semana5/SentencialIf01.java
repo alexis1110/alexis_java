@@ -9,7 +9,7 @@ public static void main(String[] args) {
     if (respuesta.equals("caracas")) {
         System.out.println("eres un genio, debes estar en sistemas");
         }else{
-            System.out.println("Recoje tu pico y pala, ve ala chacra");
+            System.out.println("Recoje tu pico y pala, ve a la chacra");
         }
 }
 }
